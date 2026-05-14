@@ -1,8 +1,8 @@
 # Interactive ABC
 
-This algorithm, developed in `Python` using the `Pygame` library, aims to stimulate cognitive activities in children during the early stages of reading development through visual and interactive learning experiences that assist in alphabet letter recognition.
-
-The project seeks to make contact with letters more intuitive, playful, and educational, contributing to the development of coordination, visual association, and alphabet familiarization in a fun and engaging way.
+> This algorithm, developed in `Python` using the `Pygame` library, aims to stimulate cognitive activities in children during the early stages of reading development through visual and interactive learning experiences that assist in alphabet letter recognition.
+> 
+> The project seeks to make contact with letters more intuitive, playful, and educational, contributing to the development of coordination, visual association, and alphabet familiarization in a fun and engaging way.
 
 # Simulation
 
@@ -27,7 +27,7 @@ This is the letter A.
 
 ---
 
-# Project Structure
+# Architecture
 
 ```bash
 src/
@@ -179,7 +179,7 @@ interactive-abc/
 In `VS Code`:
 
 ```bash
-Terminal -> New Terminal
+Terminal ------ New Terminal
 ```
 
 ---
@@ -212,18 +212,10 @@ python3 abc.py
 
 ---
 
-# Notes
+# Observation
 
 The program recognizes only alphabet letters. If other keys are pressed, the following message will be displayed:
 
 ```bash
 This key is not a valid letter!
 ```
-
----
-
-# Author
-
-Developed by João Pedro.
-
-Educational project developed using `Python` and `Pygame`.
