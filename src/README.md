@@ -20,13 +20,6 @@ This is the letter A.
 
 ---
 
-# Libraries
-
-- `Python 3`
-- `Pygame`
-
----
-
 # Architecture
 
 ```bash
@@ -54,15 +47,7 @@ To run the project, you will need:
 
 ## 1. Download Python
 
-Access the official website:
-
-🔗 https://www.python.org/downloads/
-
-Install the latest version of Python.
-
----
-
-## 2. Install Python
+Access the official website https://www.python.org/downloads/ and install the latest version of Python.
 
 During installation, select the option:
 
@@ -78,7 +63,7 @@ Install Now
 
 ---
 
-## 3. Verify Installation
+## 2. Verify Installation
 
 Open your computer terminal and execute:
 
@@ -104,7 +89,7 @@ Python 3.12.0
 
 ## 1. Download VS Code
 
-🔗 https://code.visualstudio.com/
+https://code.visualstudio.com/
 
 ---
 
