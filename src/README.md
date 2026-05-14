@@ -30,7 +30,7 @@ This is the letter A.
 # Project Structure
 
 ```bash
-interactive-abc/
+src/
 │
 ├── abc.py
 ├── README.md
