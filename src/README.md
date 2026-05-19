@@ -24,7 +24,6 @@ This is the letter A.
 
 ```bash
 src/
-│
 ├── abc.py
 ├── README.md
 └── requirements.txt
@@ -150,8 +149,7 @@ pip install -r requirements.txt
 Structure:
 
 ```bash
-interactive-abc/
-│
+src/
 ├── abc.py
 ├── README.md
 └── requirements.txt
