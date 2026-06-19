@@ -18,8 +18,6 @@ Example:
 This is the letter A.
 ```
 
----
-
 # Architecture
 
 ```bash
@@ -29,8 +27,6 @@ src/
 └── requirements.txt
 ```
 
----
-
 # System Requirements
 
 To run the project, you will need:
@@ -39,8 +35,6 @@ To run the project, you will need:
 - `Python 3` installed;
 - `VS Code` (recommended);
 - `Pygame` library installed.
-
----
 
 # Python Installation
 
@@ -59,8 +53,6 @@ Then click:
 ```bash
 Install Now
 ```
-
----
 
 ## 2. Verify Installation
 
@@ -82,15 +74,11 @@ The installed version should appear, something like:
 Python 3.12.0
 ```
 
----
-
 # VS Code Installation
 
 ## 1. Download VS Code
 
 https://code.visualstudio.com/
-
----
 
 ## 2. Install the Python Extension
 
@@ -101,8 +89,6 @@ Python
 ```
 
 Install the latest extension developed by `Microsoft`.
-
----
 
 # Pygame Installation
 
@@ -117,8 +103,6 @@ or:
 ```bash
 pip3 install pygame
 ```
-
----
 
 # requirements.txt
 
@@ -140,8 +124,6 @@ This allows other users to automatically install the project dependencies using:
 pip install -r requirements.txt
 ```
 
----
-
 # Running the Project
 
 ## 1. Open the Project Folder in VS Code
@@ -155,8 +137,6 @@ src/
 └── requirements.txt
 ```
 
----
-
 ## 2. Open the Terminal
 
 In `VS Code`:
@@ -164,8 +144,6 @@ In `VS Code`:
 ```bash
 Terminal ------ New Terminal
 ```
-
----
 
 ## 3. Run the Program
 
@@ -179,8 +157,6 @@ or:
 python3 abc.py
 ```
 
----
-
 # Usage Method
 
 | Key | Function |
@@ -192,8 +168,6 @@ python3 abc.py
 - The screen color will change;
 - The letter will appear highlighted;
 - The terminal will display which letter was pressed.
-
----
 
 # Observation
 
