@@ -42,17 +42,7 @@ To run the project, you will need:
 
 Access the official website https://www.python.org/downloads/ and install the latest version of Python.
 
-During installation, select the option:
-
-```bash
-Add Python to PATH
-```
-
-Then click:
-
-```bash
-Install Now
-```
+During installation, select the option `Add Python to PATH`, then click `Install Now`.
 
 ## 2. Verify Installation
 
@@ -82,11 +72,7 @@ https://code.visualstudio.com/
 
 ## 2. Install the Python Extension
 
-In `VS Code`, open the Extensions tab and search for:
-
-```bash
-Python
-```
+In `VS Code`, open the Extensions tab and search for `Python`.
 
 Install the latest extension developed by `Microsoft`.
 
@@ -106,17 +92,7 @@ pip3 install pygame
 
 # requirements.txt
 
-Create a file named:
-
-```bash
-requirements.txt
-```
-
-Containing:
-
-```txt
-pygame
-```
+Create a file named `requirements.txt`, containing `pygame`.
 
 This allows other users to automatically install the project dependencies using:
 
